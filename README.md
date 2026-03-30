@@ -1,1 +1,1 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=24&center=true&vCenter=true&width=500&lines=Hi+I'm+Akmal;Backend+Developer;Python+%7C+FastAPI)
+![Welcome](https://your-link.gif)
